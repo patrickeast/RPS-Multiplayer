@@ -1,0 +1,12 @@
+#gameDescription {
+    font-style: bold;
+    font-size: 24px;
+}
+
+#player1Container img {
+    width: 100%;
+}
+
+#player2Container img {
+    width: 100%;
+}
